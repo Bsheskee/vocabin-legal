@@ -1,3 +1,6 @@
+---
+title: Privacy Policy
+---
 # Privacy Policy
 
 ## Your privacy matters to us
