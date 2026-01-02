@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 ---
+
 # Privacy Policy
 
 ## Your privacy matters to us
@@ -11,7 +12,7 @@ This document can be printed for reference using the print command in any browse
 ---
 
 ## Early Access Note
-Thank you for being one of our early adopters! The first 100 users receive Premium access for free. The account tiers described in this policy (Freemium, Premium, and Pro) apply to the full version of Vocabin. During Early Access, your learning data is stored locally on your device unless and until you opt into a cloud-sync tier.
+Thank you for being one of our early adopters! The first 100 users receive Premium access for free. The account tiers described in this policy (Freemium, Premium, and Pro) apply to the full version of Vocabin. During Early Access, your learning data is stored locally on your device unless and until you opt into the Pro tier.
 
 ---
 
@@ -48,11 +49,11 @@ Your vocabulary lists, saved words, and learning progress are stored locally on 
 Like Freemium, all your learning data is stored locally on your device. Premium unlocks all app features but does not include cloud storage. Your data remains private and on-device.
 
 ### Pro (Subscription)
-Pro subscribers may enable secure cloud storage via Firebase. This includes your saved words, review history, and progress statistics — enabling synchronization across devices. Cloud data is protected with industry-standard security measures (including encryption in transit and at rest where supported by the provider).
+Pro subscribers get secure cloud storage and synchronization via Firebase. This includes your saved words, review history, and progress statistics — enabling synchronization across devices. Cloud data is protected with industry-standard security measures (including encryption in transit and at rest where supported by the provider).
 
 **Summary**
 - Freemium & Premium: Local storage only (no cloud learning-data collection)
-- Pro: Local storage + cloud sync via Firebase (if enabled)
+- Pro: Local storage + cloud sync via Firebase
 
 ---
 
@@ -99,7 +100,7 @@ Vocabin does not track you across other companies’ apps and websites for adver
 ## Why We Collect Your Data
 We collect data for the following purposes:
 - To create and manage your Vocabin account
-- To sync your learning progress across devices (Pro only, if enabled)
+- To sync your learning progress across devices (**Pro only**)
 - To communicate important updates about your account or our service
 - To improve Vocabin based on how it's being used (Firebase Analytics)
 - To diagnose crashes and maintain app security and stability (Firebase Crashlytics)
@@ -175,11 +176,11 @@ To exercise any of these rights, contact us at **support@vocabin.me**. We'll res
 
 ## Third-Party Services
 Vocabin uses the following third-party services (depending on features you use):
-- Firebase Authentication & Firebase (Google) — for authentication and optional cloud storage (Pro users, if enabled)
-- Firebase Analytics (Google) — for usage analytics
-- Firebase Crashlytics (Google) — for crash reporting and diagnostics
-- Apple Sign In — for convenient account creation
-- Google Sign In — for convenient account creation
+- **Firebase Authentication & Firebase (Google)** — for authentication and Pro cloud storage/sync
+- **Firebase Analytics (Google)** — for usage analytics
+- **Firebase Crashlytics (Google)** — for crash reporting and diagnostics
+- **Apple Sign In** — for convenient account creation
+- **Google Sign In** — for convenient account creation
 
 These services have their own privacy policies. Depending on the service, the provider may act as an independent controller or as our processor for specific processing activities.
 
